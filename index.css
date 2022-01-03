@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  /* use the background below with the holy mountain */
+  /* background-color: rgb(14, 14, 14); */
+  background-color: rgb(240, 240, 240);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+canvas {
+  display: block;
+  /* use the border below with the holy mountain */
+  /* border: 1px solid #f0f0f0; */
+  border: 2px solid #0e0e0e;
+}
